@@ -1,0 +1,4 @@
+C:\Projects\SharedOnGit\SparkPostDotNetCore\SparkPostDotNetCore\SparkPostDotNetCore\bin\Debug\netcoreapp1.1\SparkPostDotNetCore.deps.json
+C:\Projects\SharedOnGit\SparkPostDotNetCore\SparkPostDotNetCore\SparkPostDotNetCore\bin\Debug\netcoreapp1.1\SparkPostDotNetCore.dll
+C:\Projects\SharedOnGit\SparkPostDotNetCore\SparkPostDotNetCore\SparkPostDotNetCore\obj\Debug\netcoreapp1.1\SparkPostDotNetCore.csprojResolveAssemblyReference.cache
+C:\Projects\SharedOnGit\SparkPostDotNetCore\SparkPostDotNetCore\SparkPostDotNetCore\obj\Debug\netcoreapp1.1\SparkPostDotNetCore.AssemblyInfo.cs
