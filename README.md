@@ -1,7 +1,7 @@
 # sparkpost-sdk-dotnet
 SparkPost Sdk para .Net Core
 
-SDK baseado https://github.com/RoushTech/SparkPostDotNet,com leves alteração.
+SDK baseado https://github.com/RoushTech/SparkPostDotNet, com leves alteração.
 A documentação  a mesma.
 
 Não esqueça de alterar a API Key no arquivo SparkPostClient
