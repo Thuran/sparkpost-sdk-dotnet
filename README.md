@@ -6,7 +6,7 @@ A documentação  a mesma.
 
 Não esqueça de alterar a API Key no arquivo SparkPostClient
 
-Exemplo 
+
 # Sending an e-mail
 
 ``` csharp
