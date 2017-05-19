@@ -1,4 +1,4 @@
-# sparkpost-sdk-dotnet
+# sparkpost-sdk-dotnetcore
 SparkPost Sdk para .Net Core
 
 SDK adaptado a partir https://github.com/RoushTech/SparkPostDotNet.
